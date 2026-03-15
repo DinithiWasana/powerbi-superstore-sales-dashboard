@@ -20,7 +20,7 @@ This page provides a high-level summary of overall business performance. Key met
 1. KPI indicators for Total Sales, Total Profit, Profit Margin, and Total Orders. <br>
 2. Sales trend analysis over time. <br>
 3. Sales performance by country and region. <br>
-4. Customer segment revenue contribution. <br>
+4. Customer segment revenue contribution. <br> </n>
 Purpose is to provide executives with a quick overview of global business performance and growth patterns.
 ### 2. Product Performance & Profitability Analysis
 This page focuses on product-level performance and profitability drivers. Key insights include: <br>
