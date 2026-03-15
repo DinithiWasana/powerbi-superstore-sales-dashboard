@@ -48,4 +48,4 @@ These steps ensured the dataset was suitable for time-series analysis and busine
 This project was developed using Power BI, Power Query, DAX (Data Analysis Expressions), Data Visualization Techniques
 ## Dashboard Screenshots
 ### Executive Overview
-![Executive Dashboard](dashboard_overview.png)
+![Executive Dashboard](dashboard_overview.jpg)
