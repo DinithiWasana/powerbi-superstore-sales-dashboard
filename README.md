@@ -29,6 +29,7 @@ This page focuses on product-level performance and profitability drivers. Key in
 2. Identification of top performing sub-categories. <br>
 3. Analysis of the relationship between discount levels and profitability. <br>
 4. Detailed product performance table for exploration. <br>
+
 Purpose is to identify high-performing products and understand the financial impact of discount strategies.
 ### 3. Customer & Operations Insights
 This page analyzes customer behavior and operational shipping patterns. Key visuals include: <br>
@@ -37,6 +38,7 @@ This page analyzes customer behavior and operational shipping patterns. Key visu
 3. Analysis of order priority levels. <br>
 4. Relationship between shipping cost and profitability. <br>
 5. Identification of top customers by sales. <br>
+
 Purpose is to understand customer value and operational logistics performance.
 ## Data Preparation
 Data preprocessing was performed using Power Query to ensure accurate analysis. Key steps included: <br>
@@ -44,6 +46,7 @@ Data preprocessing was performed using Power Query to ensure accurate analysis. 
 2. Removing corrupted rows with inconsistent date formats. <br>
 3. Converting text fields into appropriate data types. <br>
 4. Creating calculated measures for key metrics such as Total Sales, Total Profit, Profit Margin, Total Orders <br>
+
 These steps ensured the dataset was suitable for time-series analysis and business reporting.
 ## Tools & Technologies
 This project was developed using Power BI, Power Query, DAX (Data Analysis Expressions), Data Visualization Techniques
