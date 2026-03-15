@@ -49,3 +49,18 @@ This project was developed using Power BI, Power Query, DAX (Data Analysis Expre
 ## Dashboard Screenshots
 ### Executive Overview
 ![Executive Dashboard](dashboard_overview.jpg)
+### Product Performance Analysis
+![Product Analysis](product_analysis.jpg)
+### Customer & Operatins Insights
+![Customer Insights](customer_insights.jpg)
+## Key Insights
+Some important insights derived from the dashboard include: <br>
+1. Certain regions contribute disproportionately to global sales and profit. <br>
+2. Technology category generates a strong revenue compared to other categories. <br>
+3. The consumer segment contributes the largest share of orders. <br>
+4. Standard shipping mode dominates order distribution, indicating customer preference for cost-effective delivery options.
+## Author
+Statistics Undergraduate. Interested in Data Analytics, Business Intelligence, and Machine Learning.
+## Contact
+LinkedIn: https://www.linkedin.com/in/dinithi-sooriyaarachchi-78692526b/ <br>
+GitHub: https://github.com/DinithiWasana
