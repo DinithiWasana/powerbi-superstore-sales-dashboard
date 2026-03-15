@@ -55,7 +55,7 @@ This project was developed using Power BI, Power Query, DAX (Data Analysis Expre
 ![Executive Dashboard](dashboard_overview.jpg)
 ### Product Performance Analysis
 ![Product Analysis](product_analysis.jpg)
-### Customer & Operatins Insights
+### Customer & Operations Insights
 ![Customer Insights](customer_insights.jpg)
 ## Key Insights
 Some important insights derived from the dashboard include: <br>
